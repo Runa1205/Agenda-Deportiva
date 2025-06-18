@@ -1,0 +1,31 @@
+{
+  "eventosSemana": [
+    {
+      "deporte": "Fútbol",
+      "descripcion": "Universitario vs Alianza Lima (Liga 1 – clásico)",
+      "fecha": "Viernes 14 de junio, 19:00"
+    },
+    {
+      "deporte": "UFC",
+      "descripcion": "UFC 303 – Pereira vs Procházka",
+      "fecha": "Sábado 15 de junio, 22:00"
+    },
+    {
+      "deporte": "Tenis",
+      "descripcion": "Semifinal Roland Garros – Nadal vs Djokovic",
+      "fecha": "Domingo 16 de junio, 10:00"
+    }
+  ],
+  "eventosDestacados": [
+    {
+      "deporte": "Fútbol",
+      "descripcion": "Final Champions League – Real Madrid vs Manchester City",
+      "fecha": "Sábado 22 de junio, 14:00"
+    },
+    {
+      "deporte": "UFC",
+      "descripcion": "UFC Fight Night – Holloway vs Topuria",
+      "fecha": "Sábado 22 de junio, 20:00"
+    }
+  ]
+}
